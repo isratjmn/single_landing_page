@@ -1,0 +1,287 @@
+@media (max-width: 1400px) { 
+    #macBookPro img {
+        width: 620px;    
+    }
+    .sec7 h2{
+        padding-top: 60px;
+        margin-left: 190px;   
+    }
+}
+  
+
+@media (max-width: 1200px) {
+    .button {
+        margin-top: -160px;
+    }
+    #macBookPro img {
+        width: 550px;    
+        
+    }
+    .carousel-caption p {
+        font-size: 18px;
+    }
+    .sec5 {
+        margin-top: -195px;
+    }
+    .sec7 h2{
+        padding-top: 80px;
+        margin-left: 40px;    
+    }
+}
+
+
+@media (max-width: 993px) {
+    h1, h2, h3 { 
+        font-size: 28px; 
+        line-height: 40px;
+    }
+    .subtitle  {
+        line-height: 30px;
+        font-size: 15px;     
+    }  
+    .button {
+        margin-top: -140px;
+    }
+    .col-md-6 h2 {
+        padding: 15px ;  
+        font-size: 25px;
+        margin-left: 25px;
+    }
+    #sec2Sub .subtitle {
+        font-size: 15px ;
+        margin-left: 25px;  
+    }
+    #sec2Sub a {
+        padding: 10px;
+        margin-left: 25px;
+    }
+    #macBookPro img {
+        width: 450px;
+        margin-left: -12px;   
+    }
+    .sec9Text p {
+        font-size: 15px;
+        line-height: 28px; 
+        padding:20px 40px 55px; 
+    }
+    .sec7 a {
+        margin-left: 40%;
+    }
+    .carousel-caption {
+        padding-bottom: 35px; 
+    }
+    .carousel-caption p {
+        font-size: 16px;
+    }
+    .sec5 {
+        margin-top: -250px;
+    }
+    .sec7 h2{
+        padding-top: 80px;
+        margin-left: 40px;    
+    }
+    .innerUpdate img{
+        width: 380px;
+    }
+    .sec10{
+        height: 650px;    
+    }
+    #sec10Content {
+        margin-top: -165px;
+    }
+    #sec10Content h2 {
+        margin-left: 24px;
+
+    }
+    #sec10Content p {
+        margin-left: 40px;
+        padding-bottom: 20px;
+        font-size: 15px;
+    } 
+    #sec10Content a {
+        padding: 8px 40px;
+        margin-left: 45px;
+    }
+
+    #mac img {
+        width: 500px;
+    }
+}
+@media (max-width: 768px) {
+    .subtitle  {
+        line-height: 26px;
+        font-size: 18px;
+    }  
+    h1, h2, h3 {  
+        font-size: 28px; 
+        line-height: 42px;
+    }
+    .sec1Title h2 {
+        font-size: 30px;
+    }
+    .sec1Title p {
+        font-size: 18px;
+        line-height: 30px;        
+    }
+    .button {
+        margin-top: -120px;
+    }
+    #sec2Sub {
+        margin: -220px 0 0 65px;
+    }
+    
+    #sec2Sub .subtitle {
+        margin-bottom: 20px;
+    }
+    #sec2Sub a {
+        margin-top: -20px;
+    }
+    #macBookPro img {
+        padding-right: 10px;
+        margin-left: 127px;
+    }
+    .sec3 {
+        padding: 20px 0;
+        height: 600px;  
+    }
+    .innerArea img {
+        width: 100px;
+    }
+    .carousel-caption {
+        padding-bottom: 6px; 
+    }
+    .carousel-caption h4 {
+        font-size: smaller;
+    }
+    .carousel-caption p {
+        font-size: 16px;
+    }
+    .sec5 {
+        margin-top: -450px;
+        height: 1100px; 
+    }
+    .col-md-12 .subtitle {
+        margin-bottom: 40px; 
+    }
+    .sec6 {
+        margin-top: 60px;
+        height: 600px;
+    }
+    .innerUpdate {
+        width: 48%;
+        padding-right: 20px;
+    }
+    .innerFeature {
+        width: 48%;
+    }
+    .sec8 {
+        margin-top: -85px;
+        height: 1650px;
+    }
+    .innerUpdate img{
+        width: 360px;
+    }
+    .updateMain h3 {
+        font-size: 18px;
+        text-transform: uppercase;
+        margin-top: 15px;  
+    }
+    .sec10{
+        height: 800px;
+    }
+    #sec10Content a {
+        padding: 8px 30px;
+        margin-left: 220px;
+    }
+    #sec10Content {
+        margin-top: -160px;
+        padding: 0 60px 0;    
+    }
+    #sec10Content h2 {
+        margin-left: 65px;   
+    }
+    #mac img {
+        margin-left: 100px;
+    }
+    h5 {
+        font-size: 20px;
+        height: 100px;
+        margin-top: 10px;
+    }
+}
+@media (max-width: 576px) {
+    .subtitle  {
+        line-height: 20px;
+        font-size: 13px;    
+    }  
+    h1, h2, h3 {
+        font-size: 20px;  
+    } 
+    .button {
+        margin-top: -80px;
+    }
+    #sec2Sub h2 {
+        margin-bottom: 15px; 
+    }
+    #macBookPro img {
+        margin-left: 35px;
+    }
+    .sec3 {
+        margin-top: -80px;
+        height: 600px;  
+    }
+    .innerArea img {
+        width: 80px;
+        margin-left: 25px; 
+    }
+    .carousel-item img{
+        height: 210px;
+    }
+    .sec5 {
+        margin-top: -500px;     
+    }
+    .sec6 {
+        height: 700px;
+
+    }
+    .innerFeature {
+        width: 48%; 
+    }
+    .rightInner p {
+        padding-top: 10px;
+        font-size: 14px;
+    }
+    .leftInner img {
+        font-size: 15px;
+        padding: 6px;
+    }
+    .innerUpdate img {
+        width: 300px;
+    }
+    .updateMain h3 {
+        font-size: 14px;
+    }
+    .updateMain p {
+        margin-right: 14px;
+    }
+    .sec10{
+        height: 800px;
+        padding-top: 35px;
+    }
+    #sec10Content a {
+        padding: 8px 40px;
+        margin-left: 110px;
+    }
+    #mac img {
+        width: 500px;
+        margin-left: 8px;
+    }
+    h5 {
+        color: #ffffff;
+        font-size: 15px;
+        text-align: center;
+        height: 80px;
+        padding-top: 20px;
+        margin-bottom: -10px;
+    }
+}
